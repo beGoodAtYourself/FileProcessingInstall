@@ -1,0 +1,11 @@
+﻿FileProcessing License Agreement
+Copyright (C) 2025-2026
+
+This software is protected by copyright law and international treaties.
+
+Permission is granted to install, use and copy this software for personal or commercial purposes.
+
+Restrictions:
+You may not reverse engineer, decompile, or disassemble this software.
+You may not rent, lease, or lend this software.
+You may not distribute this software without written permission.
